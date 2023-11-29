@@ -1,8 +1,8 @@
 # Dr. Elroy Galbraith
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=taskooh&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=elroy_galbraith&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taskooh" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elroy_galbraith" />
 </a>
